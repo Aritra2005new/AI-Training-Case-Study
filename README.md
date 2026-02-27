@@ -6,6 +6,21 @@ Built a machine learning model to predict whether a telecom customer will churn 
 Developed an interactive web application using Streamlit. Users can input customer details and get real-time churn probability.
 Designed to simulate a real-world telecom customer retention analytics system.
 
+🎯 Problem Statement
+
+Customer churn refers to customers who stop using a company's product or service within a given period.
+
+High churn rates can:
+  Reduce revenue
+  Increase customer acquisition costs
+  Affect long-term business growth
+  
+This project aims to:
+  Analyze customer data
+  Identify churn patterns
+  Build a predictive classification model
+  Evaluate performance using standard ML metrics
+
 📊 Dataset Information
 
 Dataset Used: Telco Customer Churn Dataset Type: Supervised Binary Classification Target Variable: Churn (Yes / No)
@@ -30,7 +45,7 @@ where required Ensured feature alignment between training and prediction data
 
 🎯 Model Performance
 
-Accuracy: (Insert your actual accuracy here, e.g., 82%) Evaluation Metrics Used:
+Accuracy: (Insert your actual accuracy here, e.g., 81%) Evaluation Metrics Used:
 
 Accuracy Score Precision F1-Score Model outputs churn probability using the sigmoid function.
 
